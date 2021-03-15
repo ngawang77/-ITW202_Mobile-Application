@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO_3</string>
+    <string name="heading">Send</string>
+    <string name="subheading">Message Recieved</string>
+    <string name="activity2">Second MainActivity</string>
+
+</resources>

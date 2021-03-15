@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="heading">Beatles Analogy Vol.1</string>
+    <string name="text">Global warming is the slow increase in the average temperature of the earth atmosphere.
+        The earth atmosphere has always acted like a greenhouse to capture the sun’s heat, ensuring that the
+        earth has enjoyed temperatures that permitted the emergence of life forms as we know them, including humans.
+        Without our atmospheric greenhouse the earth would be very cold. https://warmheartworldwide.org/climate-change/?gclid=EAIaIQobChMIpLfyq5il7wIVEBsrCh0y5A6hEAAYAiAAEgKDzfD_BwE Global warming, however, is the equivalent
+        of a greenhouse with high efficiency reflective glass installed the wrong way around.<br></br> <br></br>
+        Ionically, the best evidence of this may come from a terrible cooling event that took place some 1,500 years
+        ago. Two massive volcanic eruptions, one year after another placed so much black dust into the upper atmosphere
+        that little sunlight could penetrate.Temperatures plummeted. Crops failed. People died of starvation and the
+        Black Death started its march.</string>
+</resources>
