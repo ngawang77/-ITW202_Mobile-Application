@@ -28,8 +28,7 @@
             android:layout_marginTop="30dp"
             android:contentDescription="TODO"
             android:onClick="Donut"
-            android:src="@drawable/pic1"
-            tools:ignore="MissingClass" />
+            android:src="@drawable/pic1" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -80,8 +79,7 @@
             android:layout_marginTop="45dp"
             android:contentDescription="TODO"
             android:onClick="Foryo"
-            android:src="@drawable/pic3"
-            tools:ignore="MissingClass" />
+            android:src="@drawable/pic3" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -97,10 +95,11 @@
         android:layout_width="100dp"
         android:layout_height="60dp"
         android:layout_gravity="end"
-        android:onClick="call"
+        android:onClick="orderActivity"
         android:layout_marginTop="30dp"
-        app:srcCompat="@android:drawable/ic_menu_call"
-        android:clickable="true">
+        android:clickable="true"
+        app:srcCompat="@drawable/shopping_cart"
+        tools:ignore="VectorDrawableCompat">
     </com.google.android.material.floatingactionbutton.FloatingActionButton>
 
 </LinearLayout>

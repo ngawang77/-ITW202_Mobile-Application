@@ -17,7 +17,7 @@ public class OrderActivity extends AppCompatActivity implements AdapterView.OnIt
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(s avedInstanceState);
         setContentView(R.layout.activity_order);
         messageTextView = findViewById(R.id.textview);
 
