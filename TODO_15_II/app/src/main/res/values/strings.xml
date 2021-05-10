@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nav Drawer Experiment</string>
+    <string name="navigation_open">Open Navigation Drawer</string>
+    <string name="navigation_close">Close Navigation Drawer</string>
+    <string name="nav_import">You selected import!</string>
+    <string name="nav_gallery">You selected gallery!</string>
+    <string name="nav_slideshow">You selected slide show!</string>
+    <string name="nav_tool">You selected tool!</string>
+    <string name="nav_share">You selected share!</string>
+    <string name="nav_send">You selected send!</string>
+</resources>
